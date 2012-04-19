@@ -2,9 +2,9 @@ AML2194
 CSEE 4119
 -------------
 PA2
-------------
+-------------
 Description
-===========
+=============
 This program implements a distance vector routing protocol.
 
 The program takes 2 input files, Graph and Events. They behave as follows:
