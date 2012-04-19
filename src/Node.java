@@ -42,10 +42,6 @@ public class Node {
 		return false;
 	}
 
-	/*----------------------
-	/*------STUDENTS--------
-	/*-your code goes after-
-	/*--------------------*/
 
 
 	/**
