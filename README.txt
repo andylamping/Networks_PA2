@@ -1,3 +1,5 @@
+** BULK OF CODE IN Node.java **
+
 AML2194
 CSEE 4119
 -------------
