@@ -15,14 +15,7 @@ public class Node {
 	private ArrayList<Message> messages = new ArrayList<Message>(); // messages to be sent on turn()
 	private ArrayList<ArrayList<Integer>> allVectors = new ArrayList<ArrayList<Integer>>(); // distance vectors of this vector and those received from neighbors
 	private ArrayList<ArrayList<Integer>> outVectors = new ArrayList<ArrayList<Integer>>(); // this node's distance vector version that it will send to each neighbor, implementing posion reverse
-	private int hasUpdate = 0; // this variable will let the main function know if this node's distVect has changed
-
-	
-	/*---------------------
-	/*------STUDENTS-------
-	/*-don't change those--
-	/*-----5 functions-----
-	/*-------------------*/
+	private int hasUpdate = 0; // this variable will let the main function know if this node's distVect has change
 	
 	
 	public Node(int id) {
